@@ -1,0 +1,19 @@
+{
+  "name": "ddutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "utils",
+    "method",
+    "func"
+  ],
+  "author": "isaac.wang1",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.9.0"
+  }
+}
